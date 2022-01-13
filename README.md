@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a programmer living in Leipzig, Germany. I am mainly building things using...
+
+![Python](https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python)
+![FastApi](https://img.shields.io/badge/fastapi-orange?style=for-the-badge&logo=fastapi)
+
+![JavaScript](https://img.shields.io/badge/javascript-red?style=for-the-badge&logo=javascript)
+![Svelte](https://img.shields.io/badge/svelte-red?style=for-the-badge&logo=svelte)
+
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)
+![Traefik](https://img.shields.io/badge/traefik-blue?style=for-the-badge&logo=traefik)
+
+
 <!--
 **Spansky/Spansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
