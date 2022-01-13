@@ -13,7 +13,7 @@ I'm a programmer living in Leipzig, Germany. I am mainly building things using..
 
 You can follow my progress on Youtube:
 
-<a href="https://www.youtube.com/channel/UC9Q1m9Gl7yj9Q1xi1451nGg/featured"><img alt="link to my youtube channel" url="https://img.shields.io/youtube/channel/views/UC9Q1m9Gl7yj9Q1xi1451nGg"></a>
+<a href="https://www.youtube.com/channel/UC9Q1m9Gl7yj9Q1xi1451nGg/featured"><img alt="link to my youtube channel" src="https://img.shields.io/youtube/channel/views/UC9Q1m9Gl7yj9Q1xi1451nGg"></a>
 <!--
 **Spansky/Spansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
