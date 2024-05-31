@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a programmer living in Leipzig, Germany. I am mainly building things using...
+I'm a programmer living in Stuttgart, Germany. I am mainly building things using...
 
 ![Python](https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python)
 ![FastApi](https://img.shields.io/badge/fastapi-orange?style=for-the-badge&logo=fastapi)
